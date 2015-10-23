@@ -1,9 +1,3 @@
----
-title: Codebook
-author: Graham Horn
-date: 23 October 2015
-output: html_document
----
 
 The original source for the data and descriptions was https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip which was produced by this study http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 

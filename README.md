@@ -1,9 +1,3 @@
----
-title: "Coursera Getting and Cleaning Data - course project"
-author: "Graham Horn"
-date: "23 October 2015"
-output: html_document
----
 
 The run_analysis.R script performs all of the steps required for the Coursera Getting and Cleaning Data course project.
 
