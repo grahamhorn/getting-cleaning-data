@@ -10,7 +10,7 @@ The script does the work in the following stages:
 3. Labels the columns with the names of the features (from the features.txt file)
 4. Adds the activity and subject labels as further columns
 5. Drops the data columns that are not associated with the mean or standard deviation for the measurements (Assumes that only the columns whose labels include "mean" or "std" should be kept)
-6. Replaces the activity coding with a descriptive label, from the activity_labels.txt file
+6. Replaces the activity coding with a descriptive label, from the activity_labels.txt file - this first tidy data set is stored in a variable called df.
 7. Creates a dataframe called means_df that contains the average of each variable for each activity and each subject. The hint to use summarize_each was used from the forum: https://class.coursera.org/getdata-033/forum/thread?thread_id=212
 
 
