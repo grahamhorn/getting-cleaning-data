@@ -107,9 +107,13 @@ The data set also contains the labels for activity and subject.
 ## Data
 The tidy data set consists of 10299 observations of 81 variables (listed above).
 
+The second data set (ith the average of each variable for each activity and each subject) consists of 180 observations of 81 variables
+
 ## Transformations
 The data in the original zip file contains training and test data sets. These have been merged together. 
 
 Only the measurements on the mean and standard deviation for each measurement have been kept.
 
 The subject and activity labels were added as additional columns. The activity coding was replaced by the labels provided in the zip file.
+
+The script also produces a second tidy data set with the average of each variable for each activity and each subject.

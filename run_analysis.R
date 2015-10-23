@@ -40,3 +40,4 @@ df$activity <- factor(df$activity, labels = activity_labels$label)
 library(dplyr)
 
 means_df <- summarize_each(group_by(df, subject, activity), funs(mean))
+means_df
