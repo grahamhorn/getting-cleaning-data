@@ -17,7 +17,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-The following variables are contained within the tidy data set, these are estimates of the mean value and standard deviations from these signals.
+The following variables are contained within the tidy data set, these are estimates of the mean value and standard deviations from these signals. As noted in the original README file, these features are normalized and bounded within [-1,1].
 
 The data set also contains the labels for activity and subject.
 
